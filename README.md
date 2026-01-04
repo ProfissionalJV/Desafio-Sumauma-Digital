@@ -1,2 +1,48 @@
-# Desafio-Sumauma-Digital
-Quiz Educativo &amp; Residômetro de REEE
+# 🌳 Desafio Sumaúma Digital — Quiz Educativo & Residômetro de REEE
+
+## 📌 Objetivo
+Desenvolver uma solução educativa e visual para apoiar ações do Desafio Sumaúma Digital, iniciativa do Ministério das Comunicações no contexto de preparação para a COP30, com foco na conscientização ambiental e no acompanhamento da arrecadação de Resíduos de Equipamentos Eletroeletrônicos (REEE).
+O projeto foi apresentado durante a Semana Nacional de Ciência e Tecnologia, realizada em Brasília no ano de 2025.
+
+## 🛠 Ferramentas utilizadas
+- HTML, CSS e JavaScript (quiz educativo)
+- Power BI (visualização e análise de dados)
+
+## 🧩 Componentes do Projeto
+###  ⚕️Quiz Educativo (Interface Web)
+Foi desenvolvido um quiz educativo com perguntas relacionadas ao Desafio Sumaúma Digital, à logística reversa e à importância do correto descarte de REEE.
+
+  📍Observação:
+O código-fonte do quiz não está disponibilizado para execução pública neste repositório. O conteúdo é apresentado apenas por meio de registros visuais (imagens), por se tratar de um material desenvolvido para fins institucionais e expositivos.
+
+### ⚕️Residômetro de REEE (Power BI)
+O Residômetro foi criado em Power BI com o objetivo de acompanhar a contagem e visualização das toneladas de resíduos eletrônicos arrecadadas durante a campanha.
+O painel apresenta:
+- Evolução da arrecadação de REEE
+- Indicadores quantitativos de impacto ambiental
+- Visualização clara para apoio à comunicação institucional
+
+ 📍Observação:
+O dashboard foi desenvolvido dentro da infraestrutura interna do Ministério das Comunicações, não sendo possível o compartilhamento público da estrutura e fórmulas utilizadas.
+
+## 📊 Resultado final
+
+- Interface interativa para educação e engajamento do público
+- Visualização clara e objetiva dos dados de arrecadação de REEE
+- Apoio à comunicação institucional e à educação ambiental
+- Redução da complexidade na interpretação dos dados por meio de painéis visuais
+
+## 🖼 Prints
+
+Poderão ser encontrados na pasta docs/.
+Os prints são de estruturas demonstrativas (demo) que apresentam características semelhantes ao projeto original.
+As visualizações reais utilizam dados institucionais e foram desenvolvidas em ambiente interno, não sendo passíveis de acesso público.
+
+## 📂 Estrutura da pasta
+- docs/        → prints do quiz, do residômetro e da apresentação no evento
+- README.md    → documentação do projeto
+
+---
+
+As estruturas reais e originais possuem informações privadas e de uso interno.
+Os materiais apresentados neste repositório foram adaptados exclusivamente para fins de documentação, apresentação e portfólio.
