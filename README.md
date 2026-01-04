@@ -10,10 +10,11 @@ O projeto foi apresentado durante a Semana Nacional de Ciência e Tecnologia, re
 
 ## 🧩 Componentes do Projeto
 ###  ⚕️Quiz Educativo (Interface Web)
-Foi desenvolvido um quiz educativo com perguntas relacionadas ao Desafio Sumaúma Digital, à logística reversa e à importância do correto descarte de REEE.
+Foi desenvolvido um quiz educativo interativo, com código-fonte aberto, contendo perguntas relacionadas ao Desafio Sumaúma Digital, sustentabilidade e descarte correto de resíduos eletrônicos.
+O quiz foi utilizado como ferramenta de engajamento durante a Semana Nacional de Ciência e Tecnologia, permitindo que o público testasse seus conhecimentos de forma simples e acessível.
 
   📍Observação:
-O código-fonte do quiz não está disponibilizado para execução pública neste repositório. O conteúdo é apresentado apenas por meio de registros visuais (imagens), por se tratar de um material desenvolvido para fins institucionais e expositivos.
+O código-fonte do quiz poderá ser encontrado na pasta src/quiz
 
 ### ⚕️Residômetro de REEE (Power BI)
 O Residômetro foi criado em Power BI com o objetivo de acompanhar a contagem e visualização das toneladas de resíduos eletrônicos arrecadadas durante a campanha.
