@@ -14,7 +14,8 @@ Foi desenvolvido um quiz educativo interativo, com código-fonte aberto, contend
 O quiz foi utilizado como ferramenta de engajamento durante a Semana Nacional de Ciência e Tecnologia, permitindo que o público testasse seus conhecimentos de forma simples e acessível.
 
   📍Observação:
-O código-fonte do quiz poderá ser encontrado na pasta src/QuizSumauma
+O código-fonte do quiz poderá ser encontrado na pasta src/QuizSumauma, no entanto, imagens/videos e logos que estavam disponíveis no quiz não foram repassados por segurança.
+
 ### ⚕️Residômetro de REEE (Power BI)
 O Residômetro foi criado em Power BI com o objetivo de acompanhar a contagem e visualização das toneladas de resíduos eletrônicos arrecadadas durante a campanha.
 O painel apresenta:
