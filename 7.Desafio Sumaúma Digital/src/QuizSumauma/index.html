@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Sumaúma Digital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="quiz-container">
+        
+        <header>
+            <h1>Desafio Sumaúma Digital</h1>
+            
+            <video id="arvore-crescendo-video" autoplay muted loop playsinline>
+                <source src="ARVORE CRESCENDO.MP4" type="video/mp4">
+                Seu navegador não suporta a tag de vídeo.
+            </video>
+            
+        </header>
+        
+        <main id="quiz-main" style="display: none;">
+            <div id="pergunta-atual">
+                <p>O quiz será carregado aqui!</p>
+            </div>
+            <div id="alternativas-container">
+                </div>
+            <div id="feedback">
+                </div>
+        </main>
+
+        <div id="tela-inicio">
+            <h2>Bem-vindo(a) ao Desafio!</h2>
+            <p>Responda 5 perguntas corretamente para ganhar um brinde exclusivo!</p>
+            <button id="avancar-coleta" class="botao-principal">PRÓXIMO</button>
+        </div>
+
+        <div id="tela-coleta" class="tela-overlay" style="display: none;">
+            <h2>Insira seus dados:</h2>
+            <div class="form-group">
+                <label for="nome">NOME COMPLETO:</label>
+                <input type="text" id="nome" placeholder="Seu nome" required>
+            </div>
+            <div class="form-group">
+                <label for="idade">IDADE:</label>
+                <input type="text" id="idade" inputmode="numeric" pattern="[0-9]*" placeholder="Sua idade" required min="5" max="120">
+            </div>
+            <button id="iniciar-quiz-coleta" class="botao-principal" disabled>INICIAR QUIZ</button>
+        </div>
+        
+        <div id="tela-recompensa" class="tela-overlay" style="display: none;">
+            <h2>🎉 PARABÉNS, VOCÊ FOI FERA! 🎉</h2>
+            <img src="PCzinho.jpg" alt="Mascote PCzinho fazendo joinha" id="mascote-joinha">
+            <p id="mensagem-recompensa">Você ganhou um brinde exclusivo!</p>
+            <button id="reiniciar-brinde" class="botao-principal">REINICIAR</button>
+        </div>
+
+        <div id="tela-final" class="tela-overlay" style="display: none;">
+            <h2>FIM DO DESAFIO</h2>
+            <p>Sua pontuação foi: <span id="pontuacao-final">0</span> acertos.</p>
+            <p>Continue aprendendo sobre o descarte digital! Tente novamente.</p>
+            <button id="reiniciar-final" class="botao-principal">REINICIAR</button>
+        </div>
+        
+        <footer>
+            <p>Pontuação: <span id="pontuacao-atual">0</span> de 5 acertos</p>
+            <img src="logo_rodape.png" alt="Logos do Programa" id="logos-rodape">
+        </footer>
+
+    </div> <script src="perguntas.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
