@@ -43,7 +43,16 @@ As visualizações reais utilizam dados institucionais e foram desenvolvidas em 
 - docs/        → prints do quiz, do residômetro e da apresentação no evento
 - README.md    → documentação do projeto
 
+## 🔗 Referências
+
+- Ministério das Comunicações — Lançamento do Desafio Sumaúma Digital  
+  https://www.gov.br/mcom/pt-br/noticias/2025/outubro/em-evento-pre-cop-ministerio-das-comunicacoes-lanca-o-desafio-sumauma-digital-com-meta-de-arrecadar-200-toneladas-de-residuos-eletronicos
+
+- Ministério das Comunicações — Ações e Programas relacionados à COP30  
+  https://www.gov.br/mcom/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/cop-30
+
 ---
 
 As estruturas reais e originais possuem informações privadas e de uso interno.
 Os materiais apresentados neste repositório foram adaptados exclusivamente para fins de documentação, apresentação e portfólio.
+Além disso, foi desenvolvido com base em informações públicas e apresentado em evento científico, logo, nenhum dado interno ou sistema restrito é disponibilizado neste repositório.
